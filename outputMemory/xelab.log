@@ -1,0 +1,15 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /usr/Xilinx/Vivado/2019.1/bin/unwrapped/lnx64.o/xelab testbench -timescale 1ns/1ps -debug all 
+Multi-threading is on. Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module work.write_memory_controller
+Compiling module work.input_memory
+Compiling module work.read_memory_controller
+Compiling module work.input_ram_wrapper
+Compiling module work.testbench
+Built simulation snapshot work.testbench

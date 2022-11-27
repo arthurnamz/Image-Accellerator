@@ -1,0 +1,9 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/student/Documents/socClass/final_project/inputMemory/inputMemoWrapper.sv,1664251602,systemVerilog,,/home/student/Documents/socClass/final_project/inputMemory/input_ram.sv,,input_ram_wrapper,,,,,,,,
+/home/student/Documents/socClass/final_project/inputMemory/input_ram.sv,1664251463,systemVerilog,,/home/student/Documents/socClass/final_project/inputMemory/read_memory_controller.sv,,input_memory,,,,,,,,
+/home/student/Documents/socClass/final_project/inputMemory/read_memory_controller.sv,1664256833,systemVerilog,,/home/student/Documents/socClass/final_project/inputMemory/testbench.sv,,read_memory_controller,,,,,,,,
+/home/student/Documents/socClass/final_project/inputMemory/testbench.sv,1664246657,systemVerilog,,/home/student/Documents/socClass/final_project/inputMemory/write_memory_controller.sv,,testbench,,,,,,,,
+/home/student/Documents/socClass/final_project/inputMemory/write_memory_controller.sv,1664242048,systemVerilog,,,,write_memory_controller,,,,,,,,
