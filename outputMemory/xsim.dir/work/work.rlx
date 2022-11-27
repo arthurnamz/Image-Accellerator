@@ -1,9 +1,0 @@
-0.6
-2019.1
-May 24 2019
-14:51:52
-/home/student/Documents/socClass/final_project/outputMemory/outputMemoWrapper.sv,1664252186,systemVerilog,,/home/student/Documents/socClass/final_project/outputMemory/output_ram.sv,,input_ram_wrapper,,,,,,,,
-/home/student/Documents/socClass/final_project/outputMemory/output_ram.sv,1664252068,systemVerilog,,/home/student/Documents/socClass/final_project/outputMemory/read_memory_controller.sv,,input_memory,,,,,,,,
-/home/student/Documents/socClass/final_project/outputMemory/read_memory_controller.sv,1664252314,systemVerilog,,/home/student/Documents/socClass/final_project/outputMemory/testbench.sv,,read_memory_controller,,,,,,,,
-/home/student/Documents/socClass/final_project/outputMemory/testbench.sv,1664252404,systemVerilog,,/home/student/Documents/socClass/final_project/outputMemory/write_memory_controller.sv,,testbench,,,,,,,,
-/home/student/Documents/socClass/final_project/outputMemory/write_memory_controller.sv,1664252346,systemVerilog,,,,write_memory_controller,,,,,,,,
